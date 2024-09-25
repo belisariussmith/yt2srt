@@ -15,3 +15,9 @@ subtitle text is being displayed (so that the times do not overlap).
 
    With this information, the program is able to easily generate the index
 numbers and the two timestamps that an SRT file needs.
+
+## Usage
+
+**#** yt2srt Yi_Nian_Yong_Heng_S03E01.yt<br/><br/>
+**#** ls<br/><br/>
+*Yi_Nian_Yong_Heng_S03E01.srt Yi_Nian_Yong_Heng_S03E01.yt*<br/>
